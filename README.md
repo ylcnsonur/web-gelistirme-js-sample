@@ -21,6 +21,9 @@ Bu proje, ReactJS ve Vite kullanarak geliştirilmiş bir Todo List uygulamasıd�
    ```
 
 3. **Backend sunucusunu çalıştırın:**
+   ```bash
+   npm install
+   ```
    - Yeni bir terminal açın.
    - `server` klasörüne gidin:
      ```bash
